@@ -30,4 +30,4 @@ From *"AdventureWorksDW2019"* Database, the following tables were chosen for ana
 
 
 
-##### Note: *The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it, interact with it.*
+##### Note: *The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it as the whole thing is very dynamic.*
